@@ -1,0 +1,5 @@
+{
+  "name": "ZenTask AI",
+  "description": "A motivational task manager with integrated Google Calendar, progress visualization, and AI-powered daily inspiration to keep you focused and energized.",
+  "requestFramePermissions": []
+}
